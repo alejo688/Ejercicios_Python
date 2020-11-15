@@ -2,9 +2,7 @@
 # Leer un número entero y mostrar todos los pares comprendidos entre 1 y el número leído.
 
 def conteo(numero):
-    numero += 1
-
-    for i in range(1, numero):
+    for i in range(1, numero + 1):
         if i % 2 == 0:
             print(i)
 
