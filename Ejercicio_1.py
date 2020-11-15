@@ -1,4 +1,4 @@
-# Premisa de ejercicio
+# Premisa de ejercicio 1
 # Leer un número entero y mostrar todos los enteros comprendidos entre 1 y el número leído
 
 def conteo(numero):
